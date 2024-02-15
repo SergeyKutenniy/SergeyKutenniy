@@ -33,4 +33,4 @@
 
 ### My hobby
 
-<img align="left" alt="Codewars" width="42px" src="https://www.codewars.com/users/SergeyKutenniy" />
+<img align="left" alt="Codewars" width="42px" src="[https://www.codewars.com/users/SergeyKutenniy](https://www.codewars.com/dashboard)https://www.codewars.com/dashboard" />
