@@ -33,4 +33,6 @@
 
 ### My hobby
 
+<a href="https://www.codewars.com/users/SergeyKutenniy">
 <img align="left" alt="Codewars" width="42px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" />
+</a>
